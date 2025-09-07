@@ -9,3 +9,19 @@
     import 'relative/path/to/stylesheet.scss';
 
 */
+
+.estilo{
+    font-size:80px;
+    font-family: 'Times New Roman', Times, serif;
+    color: plum;
+    font-weight: lighter;
+    letter-spacing: 15px;
+    }
+    
+    .fondo{
+        background-color: pink;             
+        background-size: cover;
+        background-position: center;
+        width: 100vw;   
+        height: 100vh; 
+    }
